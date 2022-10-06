@@ -1,7 +1,8 @@
 public class getWeightGrade {
-    
+
     private double pointTotal;
     private double weight;
+    private double earnGrade;
 
     public void setPointTotal(double pointTotal) {
         this.pointTotal = pointTotal;
@@ -9,6 +10,10 @@ public class getWeightGrade {
 
     public void setWeight(double weight) {
         this.weight = weight;
+    }
+
+    public void setEarnGrade(double earnGrade) {
+        this.earnGrade = earnGrade;
     }
 
     //calculate and return the result
@@ -37,3 +42,5 @@ public class getWeightGrade {
         return grade;
     }
 }
+
+
