@@ -7,7 +7,7 @@
 
 
 
-##lab6
-[main](https://github.com/ivylu888/INFO5100/blob/main/main.java)
-[GetWeightGrade.java](https://github.com/ivylu888/INFO5100/blob/main/GetWeightGrade.java)
-[graphInterface.java](https://github.com/ivylu888/INFO5100/blob/main/graphInterface.java)
+## lab6
+[main](https://github.com/ivylu888/INFO5100/blob/main/main.java)  
+[GetWeightGrade.java](https://github.com/ivylu888/INFO5100/blob/main/GetWeightGrade.java)  
+[graphInterface.java](https://github.com/ivylu888/INFO5100/blob/main/graphInterface.java)  
