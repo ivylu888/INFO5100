@@ -61,7 +61,7 @@ public class graphInterface {
 
       @Override
       public void actionPerformed(ActionEvent e) {
-        grade. setPointTotal(Integer.parseInt(tapText.getText()));
+        grade.setPointTotal(Integer.parseInt(tapText.getText()));
         grade.setEarnedPoints(Integer.parseInt(epText.getText()));
         grade.setPercentage(Integer.parseInt(percentageText.getText()));
         grade.calculatorWeight();
