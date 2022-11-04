@@ -13,7 +13,7 @@
 [graphinterface.java](https://github.com/ivylu888/INFO5100/blob/main/graphinterface.java)  
 
 ## lab7
-[main](https://github.com/ivylu888/INFO5100/blob/main/lab7_main.java)
-[graphInterface](https://github.com/ivylu888/INFO5100/blob/main/graphInterface.java)
-[fileIO](https://github.com/ivylu888/INFO5100/blob/main/fileIO.java)
-[annual.csv](https://github.com/ivylu888/INFO5100/blob/main/annual.csv)
+[main](https://github.com/ivylu888/INFO5100/blob/main/lab7_main.java)  
+[graphInterface](https://github.com/ivylu888/INFO5100/blob/main/graphInterface.java)  
+[fileIO](https://github.com/ivylu888/INFO5100/blob/main/fileIO.java)  
+[annual.csv](https://github.com/ivylu888/INFO5100/blob/main/annual.csv)  
