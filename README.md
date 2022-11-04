@@ -14,6 +14,6 @@
 
 ## lab7
 [main](https://github.com/ivylu888/INFO5100/blob/main/lab7_main.java)  
-[myWindow.java]((https://github.com/ivylu888/INFO5100/blob/main/myWindow.java)  
+[myWindow.java](https://github.com/ivylu888/INFO5100/blob/main/myWindow.java)  
 [fileIO](https://github.com/ivylu888/INFO5100/blob/main/fileIO.java)  
 [annual.csv](https://github.com/ivylu888/INFO5100/blob/main/annual.csv)  
