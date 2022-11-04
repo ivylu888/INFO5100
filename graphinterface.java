@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-public class graphInterface extends JFrame {
+public class graphinterface extends JFrame {
   public static void placeComponents(JPanel panel){
     panel.setLayout(null);
     JLabel readLabel1 = new JLabel("Read the file name: ");
