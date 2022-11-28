@@ -8,7 +8,7 @@
 
 
 ## lab6
-[main](https://github.com/ivylu888/INFO5100/blob/main/main.java)  
+[main](https://github.com/ivylu888/INFO5100/blob/main/lab6_main.java)  
 [GetWeightGrade.java](https://github.com/ivylu888/INFO5100/blob/main/GetWeightGrade.java)  
 [graphInterface.java](https://github.com/ivylu888/INFO5100/blob/main/graphInterface.java)  
 
